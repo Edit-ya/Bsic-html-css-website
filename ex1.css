@@ -1,0 +1,14 @@
+h1 {
+	text-align: center;
+	margin-top: 20px;
+}
+
+iframe {
+	border: none;
+	position: absolute;
+	top: 0;
+	right: 0;
+	height: 500px;
+	width: 60%;
+}
+

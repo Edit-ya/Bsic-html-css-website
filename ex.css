@@ -1,0 +1,13 @@
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+iframe {
+	border: none;
+	flex: 1;
+	height: 500px;
+}
+
