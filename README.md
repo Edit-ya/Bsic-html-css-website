@@ -1,1 +1,1 @@
-# Bsic-html-css-website
+# Basic-html-css-website
